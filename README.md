@@ -1,4 +1,4 @@
-# OIBSIP Task 2 - Number Gussing game
+# OIBSIP Task 2 - Number Guessing game
 HOW TO PLAY
 Follow the on-screen instructions to guess the correct number. The game will provide feedback on whether your guess is too high or too low. Try to guess the number within the allowed number of attempts.
 
